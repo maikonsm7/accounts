@@ -169,4 +169,5 @@ function getAccount(accountName){
     })
     return JSON.parse(accountJSON)
 }
+
 menu()
